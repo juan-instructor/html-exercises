@@ -21,7 +21,7 @@ This exercise should be your top priority.
 
 ### Challenge #2 Structuring a planet data table
 
-If you have not done it already, please work on [Mozilla Splash Challenge](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Planet_data_table).
+If you have not done it already, please work on [Planet data table](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Planet_data_table).
 
 > [!NOTE]
 > Make sure you are doing the exercises locally (on your computer and your server running).
@@ -169,7 +169,7 @@ Inside the `<header>` element, insert an `<img>` element that will embed the **N
 
 #### 2️⃣ Embed a Space Video
 
-Just inside the `<main>` element, embed the following **YouTube video** about space exploration:
+Just inside the `<main>` element, embed a **YouTube video** about space exploration:
 
 Use the appropriate **YouTube embedding code**, and set the width to **500px**. _Tip:_ If you don't know how to embed a YouTube video, search for **"Embed a YouTube video in HTML"**.
 
